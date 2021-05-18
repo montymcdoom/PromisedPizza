@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1666186674, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 2
+  lastUpdatedAtString: 2021-05-14T19:27:44.678+01:00
+  initializedAtString: 2021-05-14T19:27:44.672+01:00
+  localBranches:
+  - name: ToMerge
+    tracking: The_Promised_Pizza/ToMerge
+  remoteBranches:
+  - name: The_Promised_Pizza/main
+    tracking: '[None]'
+  - name: The_Promised_Pizza/master
+    tracking: '[None]'
+  - name: The_Promised_Pizza/ToMerge
+    tracking: '[None]'
+  remotes:
+  - name: The_Promised_Pizza
+    url: https://github.com/montymcdoom/PromisedPizza
+    login: 
+    user: 
+    host: 
+    function: 0
+    token: 
+  localConfigBranches:
+    keys:
+    - ToMerge
+    values:
+    - name: ToMerge
+      remote:
+        name: The_Promised_Pizza
+        url: https://github.com/montymcdoom/PromisedPizza
+      trackingBranch: ToMerge
+  remoteConfigBranches:
+    keys:
+    - The_Promised_Pizza
+    subKeys:
+    - Values:
+      - main
+      - master
+      - ToMerge
+    subKeyValues:
+    - Values:
+      - name: main
+        remote:
+          name: The_Promised_Pizza
+          url: https://github.com/montymcdoom/PromisedPizza
+        trackingBranch: 
+      - name: master
+        remote:
+          name: The_Promised_Pizza
+          url: https://github.com/montymcdoom/PromisedPizza
+        trackingBranch: 
+      - name: ToMerge
+        remote:
+          name: The_Promised_Pizza
+          url: https://github.com/montymcdoom/PromisedPizza
+        trackingBranch: 
+  configRemotes:
+    keys:
+    - The_Promised_Pizza
+    values:
+    - name: The_Promised_Pizza
+      url: https://github.com/montymcdoom/PromisedPizza
