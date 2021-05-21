@@ -13,15 +13,111 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-05-18T15:54:05.381+01:00
-  initializedAtString: 2021-05-18T15:24:15.575+01:00
+  lastUpdatedAtString: 2021-05-18T20:02:16.790+01:00
+  initializedAtString: 2021-05-18T16:14:35.627+01:00
   entries:
+  - path: Assets\CanopyMaterial.mat
+    fullPath: C:\Users\Monty\Repos\Unity\The Promised Pizza\Assets\CanopyMaterial.mat
+    projectPath: Assets\CanopyMaterial.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\CanopyMaterial.mat.meta
+    fullPath: C:\Users\Monty\Repos\Unity\The Promised Pizza\Assets\CanopyMaterial.mat.meta
+    projectPath: Assets\CanopyMaterial.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\CarBodyMaterial.mat
+    fullPath: C:\Users\Monty\Repos\Unity\The Promised Pizza\Assets\CarBodyMaterial.mat
+    projectPath: Assets\CarBodyMaterial.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\CarBodyMaterial.mat.meta
+    fullPath: C:\Users\Monty\Repos\Unity\The Promised Pizza\Assets\CarBodyMaterial.mat.meta
+    projectPath: Assets\CarBodyMaterial.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\HoverCar.prefab
+    fullPath: C:\Users\Monty\Repos\Unity\The Promised Pizza\Assets\HoverCar.prefab
+    projectPath: Assets\HoverCar.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\HoverCar.prefab.meta
+    fullPath: C:\Users\Monty\Repos\Unity\The Promised Pizza\Assets\HoverCar.prefab.meta
+    projectPath: Assets\HoverCar.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\HoverCar.unitypackage
+    fullPath: C:\Users\Monty\Repos\Unity\The Promised Pizza\Assets\HoverCar.unitypackage
+    projectPath: Assets\HoverCar.unitypackage
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\HoverCar.unitypackage.meta
+    fullPath: C:\Users\Monty\Repos\Unity\The Promised Pizza\Assets\HoverCar.unitypackage.meta
+    projectPath: Assets\HoverCar.unitypackage.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\LandingPad.prefab
+    fullPath: C:\Users\Monty\Repos\Unity\The Promised Pizza\Assets\LandingPad.prefab
+    projectPath: Assets\LandingPad.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\LandingPad.prefab.meta
+    fullPath: C:\Users\Monty\Repos\Unity\The Promised Pizza\Assets\LandingPad.prefab.meta
+    projectPath: Assets\LandingPad.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\LandingPad.unitypackage
+    fullPath: C:\Users\Monty\Repos\Unity\The Promised Pizza\Assets\LandingPad.unitypackage
+    projectPath: Assets\LandingPad.unitypackage
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\LandingPad.unitypackage.meta
+    fullPath: C:\Users\Monty\Repos\Unity\The Promised Pizza\Assets\LandingPad.unitypackage.meta
+    projectPath: Assets\LandingPad.unitypackage.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\PadMaterial.mat
+    fullPath: C:\Users\Monty\Repos\Unity\The Promised Pizza\Assets\PadMaterial.mat
+    projectPath: Assets\PadMaterial.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\PadMaterial.mat.meta
+    fullPath: C:\Users\Monty\Repos\Unity\The Promised Pizza\Assets\PadMaterial.mat.meta
+    projectPath: Assets\PadMaterial.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Scenes\TerrainTests.unity
     fullPath: C:\Users\Monty\Repos\Unity\The Promised Pizza\Assets\Scenes\TerrainTests.unity
     projectPath: Assets\Scenes\TerrainTests.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Assets\SkidMaterial.mat
+    fullPath: C:\Users\Monty\Repos\Unity\The Promised Pizza\Assets\SkidMaterial.mat
+    projectPath: Assets\SkidMaterial.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\SkidMaterial.mat.meta
+    fullPath: C:\Users\Monty\Repos\Unity\The Promised Pizza\Assets\SkidMaterial.mat.meta
+    projectPath: Assets\SkidMaterial.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Timeline\Master Timeline.playable
     fullPath: C:\Users\Monty\Repos\Unity\The Promised Pizza\Assets\Timeline\Master
       Timeline.playable
@@ -29,33 +125,159 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Assets\TurbineMaterial.mat
+    fullPath: C:\Users\Monty\Repos\Unity\The Promised Pizza\Assets\TurbineMaterial.mat
+    projectPath: Assets\TurbineMaterial.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TurbineMaterial.mat.meta
+    fullPath: C:\Users\Monty\Repos\Unity\The Promised Pizza\Assets\TurbineMaterial.mat.meta
+    projectPath: Assets\TurbineMaterial.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\ArtifactDB
     fullPath: C:\Users\Monty\Repos\Unity\The Promised Pizza\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\Artifacts\08\08676196fbaada510710b21346a7f526
+    fullPath: C:\Users\Monty\Repos\Unity\The Promised Pizza\Library\Artifacts\08\08676196fbaada510710b21346a7f526
+    projectPath: Library\Artifacts\08\08676196fbaada510710b21346a7f526
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\14\14f4ec7725be1c586150335be91e6896
+    fullPath: C:\Users\Monty\Repos\Unity\The Promised Pizza\Library\Artifacts\14\14f4ec7725be1c586150335be91e6896
+    projectPath: Library\Artifacts\14\14f4ec7725be1c586150335be91e6896
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\26\26b55f050c49109ca4b223dd61b42cde
+    fullPath: C:\Users\Monty\Repos\Unity\The Promised Pizza\Library\Artifacts\26\26b55f050c49109ca4b223dd61b42cde
+    projectPath: Library\Artifacts\26\26b55f050c49109ca4b223dd61b42cde
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\2a\2ab6e72a1fab64d4c6160eb7f8bc7db0
+    fullPath: C:\Users\Monty\Repos\Unity\The Promised Pizza\Library\Artifacts\2a\2ab6e72a1fab64d4c6160eb7f8bc7db0
+    projectPath: Library\Artifacts\2a\2ab6e72a1fab64d4c6160eb7f8bc7db0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\2f\2f5411e25b2acb9f1828126263a69e46
+    fullPath: C:\Users\Monty\Repos\Unity\The Promised Pizza\Library\Artifacts\2f\2f5411e25b2acb9f1828126263a69e46
+    projectPath: Library\Artifacts\2f\2f5411e25b2acb9f1828126263a69e46
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\30\30fefd1d50613b9e10c9000d5a7ebf40
+    fullPath: C:\Users\Monty\Repos\Unity\The Promised Pizza\Library\Artifacts\30\30fefd1d50613b9e10c9000d5a7ebf40
+    projectPath: Library\Artifacts\30\30fefd1d50613b9e10c9000d5a7ebf40
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\3e\3ec2ccc526c3568abf3137a9b248ddeb
+    fullPath: C:\Users\Monty\Repos\Unity\The Promised Pizza\Library\Artifacts\3e\3ec2ccc526c3568abf3137a9b248ddeb
+    projectPath: Library\Artifacts\3e\3ec2ccc526c3568abf3137a9b248ddeb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\54\54e80c8888485bd4c62495b5d5978e08
+    fullPath: C:\Users\Monty\Repos\Unity\The Promised Pizza\Library\Artifacts\54\54e80c8888485bd4c62495b5d5978e08
+    projectPath: Library\Artifacts\54\54e80c8888485bd4c62495b5d5978e08
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\65\6530f595073c4ff13f8b7838fb4c96a0
+    fullPath: C:\Users\Monty\Repos\Unity\The Promised Pizza\Library\Artifacts\65\6530f595073c4ff13f8b7838fb4c96a0
+    projectPath: Library\Artifacts\65\6530f595073c4ff13f8b7838fb4c96a0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\6e\6ed6b9f2dbde78d86cfe8a74b072e794
+    fullPath: C:\Users\Monty\Repos\Unity\The Promised Pizza\Library\Artifacts\6e\6ed6b9f2dbde78d86cfe8a74b072e794
+    projectPath: Library\Artifacts\6e\6ed6b9f2dbde78d86cfe8a74b072e794
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\6e\6efc78fcefedee44c27cce5cd407afd1
+    fullPath: C:\Users\Monty\Repos\Unity\The Promised Pizza\Library\Artifacts\6e\6efc78fcefedee44c27cce5cd407afd1
+    projectPath: Library\Artifacts\6e\6efc78fcefedee44c27cce5cd407afd1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\9b\9b24db1eb0bbf02d794435f497110418
+    fullPath: C:\Users\Monty\Repos\Unity\The Promised Pizza\Library\Artifacts\9b\9b24db1eb0bbf02d794435f497110418
+    projectPath: Library\Artifacts\9b\9b24db1eb0bbf02d794435f497110418
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a4\a4629ad84da2116d4bbe1bf777c82478
+    fullPath: C:\Users\Monty\Repos\Unity\The Promised Pizza\Library\Artifacts\a4\a4629ad84da2116d4bbe1bf777c82478
+    projectPath: Library\Artifacts\a4\a4629ad84da2116d4bbe1bf777c82478
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a5\a54a3c806663c853518d765023e9991e
+    fullPath: C:\Users\Monty\Repos\Unity\The Promised Pizza\Library\Artifacts\a5\a54a3c806663c853518d765023e9991e
+    projectPath: Library\Artifacts\a5\a54a3c806663c853518d765023e9991e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\aa\aa73ae635daaae6536b95a408b5ec566
+    fullPath: C:\Users\Monty\Repos\Unity\The Promised Pizza\Library\Artifacts\aa\aa73ae635daaae6536b95a408b5ec566
+    projectPath: Library\Artifacts\aa\aa73ae635daaae6536b95a408b5ec566
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\aa\aac299adeeeebdb9349dcf09235725b1
+    fullPath: C:\Users\Monty\Repos\Unity\The Promised Pizza\Library\Artifacts\aa\aac299adeeeebdb9349dcf09235725b1
+    projectPath: Library\Artifacts\aa\aac299adeeeebdb9349dcf09235725b1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b9\b9f17fd203628c81809f35d8a289b9fd
+    fullPath: C:\Users\Monty\Repos\Unity\The Promised Pizza\Library\Artifacts\b9\b9f17fd203628c81809f35d8a289b9fd
+    projectPath: Library\Artifacts\b9\b9f17fd203628c81809f35d8a289b9fd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c3\c376eca2a61899e80e09b06d3bd2588c
+    fullPath: C:\Users\Monty\Repos\Unity\The Promised Pizza\Library\Artifacts\c3\c376eca2a61899e80e09b06d3bd2588c
+    projectPath: Library\Artifacts\c3\c376eca2a61899e80e09b06d3bd2588c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e2\e294c72f2a9e9d5d9b1ca3d5d40429d2
+    fullPath: C:\Users\Monty\Repos\Unity\The Promised Pizza\Library\Artifacts\e2\e294c72f2a9e9d5d9b1ca3d5d40429d2
+    projectPath: Library\Artifacts\e2\e294c72f2a9e9d5d9b1ca3d5d40429d2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e8\e8a82b37a48d92b5ba53791ea822bf00
+    fullPath: C:\Users\Monty\Repos\Unity\The Promised Pizza\Library\Artifacts\e8\e8a82b37a48d92b5ba53791ea822bf00
+    projectPath: Library\Artifacts\e8\e8a82b37a48d92b5ba53791ea822bf00
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\CurrentMaximizeLayout.dwlt
+    fullPath: C:\Users\Monty\Repos\Unity\The Promised Pizza\Library\CurrentMaximizeLayout.dwlt
+    projectPath: Library\CurrentMaximizeLayout.dwlt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\EditorInstance.json
     fullPath: C:\Users\Monty\Repos\Unity\The Promised Pizza\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\gfu\cache\branches.yaml
-    fullPath: C:\Users\Monty\Repos\Unity\The Promised Pizza\Library\gfu\cache\branches.yaml
-    projectPath: Library\gfu\cache\branches.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\gfu\cache\gitlocks.yaml
     fullPath: C:\Users\Monty\Repos\Unity\The Promised Pizza\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\gfu\cache\gitlog.yaml
-    fullPath: C:\Users\Monty\Repos\Unity\The Promised Pizza\Library\gfu\cache\gitlog.yaml
-    projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -89,12 +311,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ShaderCache\EditorEncounteredVariants
-    fullPath: C:\Users\Monty\Repos\Unity\The Promised Pizza\Library\ShaderCache\EditorEncounteredVariants
-    projectPath: Library\ShaderCache\EditorEncounteredVariants
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\SourceAssetDB
     fullPath: C:\Users\Monty\Repos\Unity\The Promised Pizza\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
@@ -119,6 +335,18 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Logs\AssetImportWorker0.log
+    fullPath: C:\Users\Monty\Repos\Unity\The Promised Pizza\Logs\AssetImportWorker0.log
+    projectPath: Logs\AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Logs\shadercompiler-AssetImportWorker0.log
+    fullPath: C:\Users\Monty\Repos\Unity\The Promised Pizza\Logs\shadercompiler-AssetImportWorker0.log
+    projectPath: Logs\shadercompiler-AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Logs\shadercompiler-UnityShaderCompiler.exe0.log
     fullPath: C:\Users\Monty\Repos\Unity\The Promised Pizza\Logs\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
@@ -130,43 +358,43 @@ MonoBehaviour:
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe1.log
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
   - path: Logs\shadercompiler-UnityShaderCompiler.exe2.log
     fullPath: C:\Users\Monty\Repos\Unity\The Promised Pizza\Logs\shadercompiler-UnityShaderCompiler.exe2.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe2.log
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
   - path: Logs\shadercompiler-UnityShaderCompiler.exe3.log
     fullPath: C:\Users\Monty\Repos\Unity\The Promised Pizza\Logs\shadercompiler-UnityShaderCompiler.exe3.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe3.log
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
   - path: Logs\shadercompiler-UnityShaderCompiler.exe4.log
     fullPath: C:\Users\Monty\Repos\Unity\The Promised Pizza\Logs\shadercompiler-UnityShaderCompiler.exe4.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe4.log
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
   - path: Logs\shadercompiler-UnityShaderCompiler.exe5.log
     fullPath: C:\Users\Monty\Repos\Unity\The Promised Pizza\Logs\shadercompiler-UnityShaderCompiler.exe5.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe5.log
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
   - path: Logs\shadercompiler-UnityShaderCompiler.exe6.log
     fullPath: C:\Users\Monty\Repos\Unity\The Promised Pizza\Logs\shadercompiler-UnityShaderCompiler.exe6.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe6.log
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
   - path: Logs\shadercompiler-UnityShaderCompiler.exe7.log
     fullPath: C:\Users\Monty\Repos\Unity\The Promised Pizza\Logs\shadercompiler-UnityShaderCompiler.exe7.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe7.log
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
   - path: Temp\__Backupscenes\0.backup
     fullPath: C:\Users\Monty\Repos\Unity\The Promised Pizza\Temp\__Backupscenes\0.backup
     projectPath: Temp\__Backupscenes\0.backup
